@@ -1,2 +1,2 @@
 # GADE_POE_ARENA_GAME
-Game made by Sandile Duba and Latita Mvunelo
+Arena FPS game made by Sandile Duba and Latita Mvunelo
